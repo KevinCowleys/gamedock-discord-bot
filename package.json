@@ -1,0 +1,17 @@
+{
+  "name": "gamedock-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Cowley",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.3.1",
+    "mongoose": "^5.10.9",
+    "urllib": "^2.36.1"
+  }
+}
